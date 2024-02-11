@@ -6,3 +6,6 @@
 - Cria um servidor com rota
 - Busca textual no banco de operadoras cadastradas
 - Interface web para exibição dos dados procurados
+
+### Parte 1 -> API em python
+### Parte 2 -> WebInterface
